@@ -6,6 +6,11 @@ h2 {
     background-color: lightcyan;
 }
 
+ul{
+    color: darkorchid;
+    font-weight: bold;
+}
+
 p {
     color: violet;
     border: blueviolet;
